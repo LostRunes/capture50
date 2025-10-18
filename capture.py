@@ -6,7 +6,7 @@ PORT = 8000
 
 # Folder to save faces
 SAVE_DIR = 'faces'
-PERSON_NAME = 'Yogisha'  # change per person
+PERSON_NAME = 'Abinash'  # change per person
 
 os.makedirs(os.path.join(SAVE_DIR, PERSON_NAME), exist_ok=True)
 
